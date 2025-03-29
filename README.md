@@ -1,5 +1,5 @@
 # OBS-Capture-window
-sch: https://www.google.com/search?q=obs+capture+window+ubuntu https://www.google.com/search?q=obs+capture+single+%22window%22+ubuntu
+sch: https://www.google.com/search?q=obs+capture+window+ubuntu https://www.google.com/search?q=obs+capture+single+%22window%22+ubuntu https://www.google.com/search?q=obs+ubuntu+wayland+%22Window+Capture%22
 
 # Discuss:
 https://obsproject.com/forum/threads/updated-to-ubuntu-22-04-and-obs-no-longer-provides-window-capture-option.159418/
