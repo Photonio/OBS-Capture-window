@@ -1,0 +1,1 @@
+- [How to Capture Per-Application Audio On Linux With OBS](https://youtu.be/2ppivKRulnw)
